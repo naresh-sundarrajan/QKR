@@ -77,7 +77,7 @@ At any point of time if an user wishes to obtain a CSV file format, prefix the w
 
 * **Naresh Sundar Rajan**   -   [LinkedIn](https://www.linkedin.com/nhome/)
 * **Ramkiran Gouripeddi**   _   [Faculty @BMI-Utah] (http://medicine.utah.edu/faculty/mddetail.php?facultyID=u0741833)
-* **Julio C. Facelli **     -   [Faculty @BMI-Utah](http://home.chpc.utah.edu/~facelli/)
+* **Julio C. Facelli**      -   [Faculty @BMI-Utah](http://home.chpc.utah.edu/~facelli/)
 * **Peter Mo**              _   [Data Architect @BMI-Utah](https://medicine.utah.edu/dbmi/)
 * **Randy K. Madsen**       _   [Research Staff @BMI-Utah](https://medicine.utah.edu/dbmi/)
 
