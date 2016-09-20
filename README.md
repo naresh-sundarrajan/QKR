@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing or Access to contents
 
 QKR can be installed imported to your own db or can be accessed via following ways.
-* To import QKR-data to your db, identify 'qmdr_script.sql' located in QKR_Repo folder and simply run the script.
+* To import QKR-data to your db, identify 'qmdr_script.sql' located in QKR_Repo folder and execute the script on your oracle local instance.
 * To log-in to exisiting Oracle Application Express demo: Request log-in credentials for a demo instance located at www.apex.oracle.com (please send your request for a readonly access to readqkr@gmail.com)
 * To access programmatically, check RESTful services documentation.
 
@@ -53,7 +53,7 @@ WHERE ASSET_TYPE_ASSET_ID=10001;
 |10000027       |   WSDQM       |   Wang Data Quality Model         |   10000                   |   02-FEB-16           |
 |10000064       |   ADQT            |   Almutiry Data Quality Model     |   10000       |   02-FEB-16|
 
-## RESTful based Services
+## RESTful Services
 
 Currently, QKR features Oracle Rest Data Services (ORDS) based web-services. These are following services and their location.
 
