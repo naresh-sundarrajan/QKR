@@ -25,7 +25,8 @@ QKR can be installed imported to your own db or can be accessed via following wa
 
 ### Data Model
 
-QKR is a meta-data repository built on ideas established by [OpenFurther's MDR] (https://github.com/openfurther/further-open-doc/blob/master/reference-manual.asciidoc). OpenFurther's MDR follows ISO 15836:2009 (Dublin Core Metadata Standard Elements) for modeling. We extended and implmented this approach towards our application.
+QKR is a meta-data repository built on ideas established by [OpenFurther's MDR] (https://github.com/openfurther/further-open-doc/blob/master/reference-manual.asciidoc). OpenFurther's MDR follows ISO 15836:2009 (Dublin Core Metadata Standard Elements) for modeling. We extended and implmented this approach towards our application. 
+![alt tag](QKR/Images/QMDR_ER.png) 
 
 ```
 Give the example
