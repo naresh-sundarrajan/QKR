@@ -90,7 +90,7 @@ Naresh Sundar Rajan, Ramkiran Gouripeddi, Julio C. Facelli, "A Service Oriented 
 ## License
 
 (:
-: Copyright (C) [2013] [The FURTHeR Project]
+: Copyright (C) [2013] [The OpenFurther Project] (www.openfurther.org)
 :
 : Licensed under the Apache License, Version 2.0 (the "License");
 : you may not use this file except in compliance with the License.
