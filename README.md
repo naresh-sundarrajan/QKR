@@ -13,14 +13,15 @@ These instructions will get you a copy of the project up and running on your loc
 * To test Rest services: 
 * RESTClient [Firefox Users](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 * Advanced-rest-clinet [Chrome Users](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
+* Any Browser! :) 
 
-```
-Give examples
-```
 
-### Installing
+### Installing or Access to contents
 
-A step by step series of examples that tell you have to get a development env running
+QKR can be installed imported to your own db or can be accessed via following ways.
+* To import QKR-data to your db, identify 'qmdr_script.sql' located in QKR_Repo folder and simply run the script.
+* To log-in to exisiting Oracle Application Express demo: Request log-in credentials for a demo instance located at www.apex.oracle.com (please send your request for a readonly access to readqkr@gmail.com)
+* To access programmatically, check RESTful services documentation.
 
 Stay what the step will be
 
