@@ -72,25 +72,20 @@ https://apex.oracle.com/pls/apex/qmdr/qmdr/{Services_Name}
 
 At any point of time if an user wishes to obtain a CSV file format, prefix the word _csv_ on any service name to obtain a downloadable csv output. For example: To obtain dqms service results as CSV file, use _csvdqms_ instead. This will direct you to a page where you can download the CSV version of the data.
 
-## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
+## Authors
+
+* **Naresh Sundar Rajan**   -   [LinkedIn](https://www.linkedin.com/nhome/)
+* **Ramkiran Gouripeddi**   _   [Faculty @BMI-Utah] (http://medicine.utah.edu/faculty/mddetail.php?facultyID=u0741833)
+* **Julio C. Facelli **     -   [Faculty @BMI-Utah](http://home.chpc.utah.edu/~facelli/)
+* **Peter Mo**              _   [Data Architect @BMI-Utah](https://medicine.utah.edu/dbmi/)
+* **Randy K. Madsen**       _   [Research Staff @BMI-Utah](https://medicine.utah.edu/dbmi/)
+
+
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
