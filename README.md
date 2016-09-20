@@ -28,21 +28,18 @@ QKR can be installed imported to your own db or can be accessed via following wa
 QKR is a meta-data repository built on ideas established by [OpenFurther's MDR] (https://github.com/openfurther/further-open-doc/blob/master/reference-manual.asciidoc). OpenFurther's MDR follows ISO 15836:2009 (Dublin Core Metadata Standard Elements) for modeling. We extended and implmented this approach towards our application. 
 ![alt tag](https://github.com/naresh-sundarrajan/QKR/blob/master/Images/QMDR_ER.png) 
 
+
+## Running the queries
+
+Once the data is loaded into the schema, here are the following ways by which you can query the QKR. 
+
+Query to identify different data quality conceptual frameworks loaded in QKR.
 ```
-Give the example
+Select ASSET_ID,ASSET_LABEL,ASSET_DSC,ASSET_NAMESPACE_ASSET_ID,ASSET_ACTIVATE_DT  
+From ASSET
+WHERE ASSET_TYPE_ASSET_ID=10001;
+
 ```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
 
 ### Break down into end to end tests
 
