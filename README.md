@@ -70,7 +70,7 @@ https://apex.oracle.com/pls/apex/qmdr/qmdr/{Services_Name}
 | kdqm      	| Provides a JSON structured data specifically for Kahn et al. Conceptual Data Quality Framework. 	| >curl https://apex.oracle.com/pls/apex/qmdr/qmdr/kdqm/         	|
 
 
-*At any point of time if an user wishes to obtain a CSV file format, prefix the word _csv_ on any service name to obtain a downloadable csv output. For example: To obtain dqms service results as CSV file, use _csvdqms_ instead. This will direct you to a page where you can download the CSV version of the data. *
+At any point of time if an user wishes to obtain a CSV file format, prefix the word _csv_ on any service name to obtain a downloadable csv output. For example: To obtain dqms service results as CSV file, use _csvdqms_ instead. This will direct you to a page where you can download the CSV version of the data.
 
 ## Built With
 
