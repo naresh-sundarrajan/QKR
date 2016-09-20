@@ -23,7 +23,9 @@ QKR can be installed imported to your own db or can be accessed via following wa
 * To log-in to exisiting Oracle Application Express demo: Request log-in credentials for a demo instance located at www.apex.oracle.com (please send your request for a readonly access to readqkr@gmail.com)
 * To access programmatically, check RESTful services documentation.
 
-Stay what the step will be
+### Data Model
+
+QKR is a meta-data repository built on ideas established by [OpenFurther's MDR] (https://github.com/openfurther/further-open-doc/blob/master/reference-manual.asciidoc). OpenFurther's MDR follows ISO 15836:2009 (Dublin Core Metadata Standard Elements) for modeling. We extended and implmented this approach towards our application.
 
 ```
 Give the example
