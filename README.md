@@ -1,14 +1,18 @@
-# Project Title
+# QKR - Quality Knowledge Repository
 
-One Paragraph of project description goes here
+Quality Knowledge Repository (QKR) stores Data Quality Concepts (DQC) and their methods of computation across IQ domain. We used these relationships identified through extensive literature search to design and develop a data quality meta-model.
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Move to RESTful services if you do not want to deploy QKR instance of your own.
 
 ### Prerequisities
 
-What things you need to install the software and how to install them
+* Oracle 11g or higher (For your deploying your own QKR). 
+* To test Rest services: 
+* RESTClient [Firefox Users](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
+* Advanced-rest-clinet [Chrome Users](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
 
 ```
 Give examples
