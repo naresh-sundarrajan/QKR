@@ -70,8 +70,7 @@ https://apex.oracle.com/pls/apex/qmdr/qmdr/{Services_Name}
 | kdqm      	| Provides a JSON structured data specifically for Kahn et al. Conceptual Data Quality Framework. 	| >curl https://apex.oracle.com/pls/apex/qmdr/qmdr/kdqm/         	|
 
 
-**At any point of time if an user wishes to obtain a CSV file format, prefix the word "csv" on any service name to obtain a downloadable csv output. 
-For example: To obtain *dqms* service results as CSV file, use *csvdqms* instead. This will direct you to a page where you can download the CSV version of the data. **
+** At any point of time if an user wishes to obtain a CSV file format, prefix the word "csv" on any service name to obtain a downloadable csv output. For example: To obtain *dqms* service results as CSV file, use "csvdqms" instead. This will direct you to a page where you can download the CSV version of the data. **
 
 ## Built With
 
@@ -113,7 +112,4 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+This project is supported in part by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number UL1TR001067. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health. NSR was partially supported by the Richard A. Fay and Carole M. Fay Endowed Graduate Fellowship for the Department of Biomedical Informatics in honor of Homer R. Warner, MD, PhD. Computer resources were provided by the Utah Center for High Performance Computing.
