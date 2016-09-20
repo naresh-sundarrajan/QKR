@@ -53,25 +53,25 @@ WHERE ASSET_TYPE_ASSET_ID=10001;
 |10000027       |   WSDQM       |   Wang Data Quality Model         |   10000                   |   02-FEB-16           |
 |10000064       |   ADQT            |   Almutiry Data Quality Model     |   10000       |   02-FEB-16|
 
-### Break down into end to end tests
+## RESTful based Services
 
-Explain what these tests test and why
+Currently, QKR features Oracle Rest Data Services (ORDS) based web-services. These are following services and their location.
 
+API Root Endpoint: 
 ```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
+https://apex.oracle.com/pls/apex/qmdr/qmdr/{Services_Name}
 ```
 
-## Deployment
+| Parameter 	|                                           Description                                           	|                             Example                            	|
+|:---------:	|:-----------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------:	|
+| dqms      	| Provides a JSON structured data of Data Quality Models Present in QKR                           	|     > curl https://apex.oracle.com/pls/apex/qmdr/qmdr/dqms/    	|
+| dqm/{ID}  	| Provides a JSON structured data of Data Quality Model with given ASSET_ID {ID}                  	| > curl https://apex.oracle.com/pls/apex/qmdr/qmdr/dqm/10000002 	|
+| jdqo      	| Provides a JSON structured data specifically for Johnson et al. Data Quality Ontology           	|     >curl https://apex.oracle.com/pls/apex/qmdr/qmdr/jdqo/     	|
+| kdqm      	| Provides a JSON structured data specifically for Kahn et al. Conceptual Data Quality Framework. 	| >curl https://apex.oracle.com/pls/apex/qmdr/qmdr/kdqm/         	|
 
-Add additional notes about how to deploy this on a live system
+
+**At any point of time if an user wishes to obtain a CSV file format, prefix the word "csv" on any service name to obtain a downloadable csv output. 
+For example: To obtain *dqms* service results as CSV file, use *csvdqms* instead. This will direct you to a page where you can download the CSV version of the data. **
 
 ## Built With
 
@@ -95,7 +95,21 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+(:
+: Copyright (C) [2013] [The FURTHeR Project]
+:
+: Licensed under the Apache License, Version 2.0 (the "License");
+: you may not use this file except in compliance with the License.
+: You may obtain a copy of the License at
+:
+:         http://www.apache.org/licenses/LICENSE-2.0
+:
+: Unless required by applicable law or agreed to in writing, software
+: distributed under the License is distributed on an "AS IS" BASIS,
+: WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+: See the License for the specific language governing permissions and
+: limitations under the License.
+:)
 
 ## Acknowledgments
 
