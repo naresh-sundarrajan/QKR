@@ -9,10 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisities
 
-* Oracle 11g or higher (For your deploying your own QKR). 
+* Oracle 11g or higher (For deploying your own QKR). 
 * To test Rest services: 
-* RESTClient [Firefox Users](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
-* Advanced-rest-clinet [Chrome Users](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
+ * RESTClient [Firefox Users](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
+ * Advanced-rest-clinet [Chrome Users](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
 * Any Browser! :) 
 
 
