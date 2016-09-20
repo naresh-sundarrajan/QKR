@@ -83,9 +83,9 @@ At any point of time if an user wishes to obtain a CSV file format, prefix the w
 
 
 
-## Contributing
+## Related Publications
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Naresh Sundar Rajan, Ramkiran Gouripeddi, Julio C. Facelli, "A Service Oriented Framework to Assess the Quality of Electronic Health Data for Clinical Research", ICHI, 2013, 2013 IEEE International Conference on Healthcare Informatics (ICHI), 2013 IEEE International Conference on Healthcare Informatics (ICHI) 2013, pp. 482, doi:10.1109/ICHI.2013.70 
 
 ## License
 
