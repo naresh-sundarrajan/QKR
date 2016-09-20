@@ -83,7 +83,7 @@ At any point of time if an user wishes to obtain a CSV file format, prefix the w
 
 
 
-## Related Publications
+## Related Publication(s)
 
 Naresh Sundar Rajan, Ramkiran Gouripeddi, Julio C. Facelli, "A Service Oriented Framework to Assess the Quality of Electronic Health Data for Clinical Research", ICHI, 2013, 2013 IEEE International Conference on Healthcare Informatics (ICHI), 2013 IEEE International Conference on Healthcare Informatics (ICHI) 2013, pp. 482, doi:10.1109/ICHI.2013.70 
 
