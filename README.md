@@ -37,9 +37,13 @@ Query to identify different data quality conceptual frameworks loaded in QKR.
 ```
 Select ASSET_ID,ASSET_LABEL,ASSET_DSC,ASSET_NAMESPACE_ASSET_ID,ASSET_ACTIVATE_DT  
 From ASSET
-WHERE ASSET_TYPE_ASSET_ID=10001;
+WHERE ASSET_TYPE_ASSET_ID=10001; ```
 
-```
+Results
+ASSET_ID      | ASSET_LABEL |   ASSET_DSC                       | ASSET_NAMESPACE_ASSET_ID  |   ASSET_ACTIVATE_DT
+------------- |-------------|---------------------------------- |-------------------------- |---------------- 
+10000000      | NDQM        |   Rajan Data Quality Model        |   10000                   |   22-JAN-16
+Content Cell  | Content Cell
 
 ### Break down into end to end tests
 
